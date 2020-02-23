@@ -1,1 +1,2 @@
-Une demo de git qui se passe bien
+Une démo de git qui se passe bien
+Et maintenant modifier depuis Github
